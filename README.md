@@ -83,4 +83,4 @@ A complete 2-page report summarizing the project is included as `Final_Report.pd
 
 ## 👩‍💻 Author
 
-- **Sushmitha Gundeboina** | AIML | MRECW | 2025 Batch
+- **Sushmitha Gundeboina** | AIML | MRECW | 2026 Batch
